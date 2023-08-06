@@ -56,3 +56,6 @@ Contributions to enhance the Mr. Know All application are welcome. To contribute
 4. Push to the branch: git push origin feature/your-feature
 5. Submit a pull request explaining your changes.
 I hope that Mr. Know All provides users with a valuable tool for quickly gathering knowledge on various topics, enhancing their information retrieval experience.
+
+![image](https://github.com/ohad1s/Mr.-Know-All/assets/92723105/ea5bf6aa-8796-44dd-9607-3c0bf729b93c)
+
