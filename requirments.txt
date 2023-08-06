@@ -1,0 +1,4 @@
+wikipedia-api
+googlesearch-python
+json
+tkinter
