@@ -2,7 +2,7 @@ import json
 class cache:
 
     def __init__(self):
-        j= open("../Model/my_cache.json","r")
+        j= open("./Model/my_cache.json","r")
         self.data = json.load(j)
         j.close()
 
@@ -12,7 +12,7 @@ class cache:
             first_key = next(iter(self.data))
             self.data.pop(first_key)
         self.data[key] = value
-        with open("../Model/my_cache.json","w") as j:
+        with open("./Model/my_cache.json","w") as j:
             json.dump(self.data,j)
 
     def look_up(self,key):
