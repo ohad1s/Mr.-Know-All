@@ -38,11 +38,11 @@ To install and run the Mr. Know All application, please follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/mr-know-all.git
 2. Install the required dependencies: pip install -r requirements.txt
-3. Run the application: python GUI.py
+3. Run the application: python main.py
    
 ## Usage
-1. Access the application by running GUI.py.
-2. Enter your query in the text box and click the "send" button to see the Wikipedia summary.
+1. Access the application by running main.py.
+2. Enter your query in the text box and click the "send" button (or press Enter) to see the Wikipedia summary.
 3. To swich the language search, click the "English"/"Hebrew" button.
    
 The application will also utilize caching to optimize response time for repeated queries.
