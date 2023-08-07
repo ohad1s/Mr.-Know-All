@@ -110,5 +110,3 @@ class GUI:
         self.root.mainloop()
 
 
-g = GUI()
-g.main()
